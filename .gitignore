@@ -2,3 +2,4 @@ dev-resources
 resources
 target
 test
+figwheel_server.log
